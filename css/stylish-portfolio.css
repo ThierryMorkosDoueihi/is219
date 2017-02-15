@@ -192,6 +192,229 @@ hr.small {
     -o-background-size: cover;
 }
 
+/* Interest Music */
+
+.interestMusic {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #fff;
+    background: url(../img/music.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Interest Soccer */
+
+.interestSoccer {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #fff;
+    background: url(../img/soccer.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Interest Painting */
+
+.interestPaint {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #000;
+    background: url(../img/paint.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Interest Martial Arts */
+
+.interestMMA {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #fff;
+    background: url(../img/mma.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Education NJIT */
+
+.educationNJIT {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #8B0000;
+    background: url(../img/njit.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Education WPU */
+
+.educationWPU {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #FF4500;
+    background: url(../img/wpu.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Education UOB */
+
+.educationUOB {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #000;
+    background: url(../img/uob.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.educationKey {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #000;
+    background: url(../img/book.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Work NJIT */
+
+.workNJIT {
+    display: table;
+    width: 1272px;
+    height: 524px;
+    color: #8B0000;
+    background: url(../img/njit1.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Work Capelli */
+
+.workCapelli {
+    display: table;
+    width: 100%;
+    height: 535px;
+    color: #8B0000;
+    background: url(../img/capelli.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Work Kroum */
+
+.workKroum {
+    display: table;
+    width: 100%;
+    height: 600px;
+    color: #8B0000;
+    background: url(../img/kroum.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Work Pizza */
+
+.workPizza {
+    display: table;
+    width: 100%;
+    height: 600px;
+    color: #8B0000;
+    background: url(../img/pizza.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+/* About: Dean's List */
+
+.aboutDean {
+    display: table;
+    width: 100%;
+    height: 600px;
+    color: #8B0000;
+    background: url(../img/wplogo.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* About: MUN */
+
+.aboutMUN {
+    display: table;
+    width: 100%;
+    height: 480px;
+    color: #8B0000;
+    background: url(../img/mun.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* About: Interact */
+
+.aboutInteract {
+    display: table;
+    width: 1000px;
+    height: 400px;
+    color: #000;
+    background: url(../img/int.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* About: Scout */
+
+.aboutScout {
+    display: table;
+    width: 100%;
+    height: 250px;
+    color: #000;
+    background: url(../img/scout.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 /* Portfolio */
 
 .portfolio {
