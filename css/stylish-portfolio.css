@@ -471,3 +471,24 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+.comments{
+    background-color: lightgrey;
+    width: 1150px;
+    border: 10px solid dodgerblue;
+    padding: 25px;
+    margin: 100px;
+}
+
+.boxed{
+    background-color: lightgrey;
+    width: 1150px;
+    border: 10px solid dodgerblue;
+    padding: 25px;
+    margin: 100px;
+}
+
+.comments iframe {
+    width: 1080px;
+    height: 260px;
+}
